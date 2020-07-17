@@ -1,2 +1,2 @@
-# assignment1_Samil_Ozkan
+# assignment_Samil_Ozkan
 Week1_Assignment
