@@ -1,2 +1,1 @@
 # assignment_Samil_Ozkan
-Week1_Assignment
